@@ -29,7 +29,14 @@ Cada día, deberás redactar un pequeño reporte de lo que hiciste. Puedes hacer
 ### 2. Sustento con Evidencias
 Todo lo que reportes debe tener un respaldo. Si hiciste una lectura, sube el PDF o un resumen; si programaste algo, sube el código; si hiciste una actividad en el lab, sube una foto o captura de pantalla a la carpeta **"Evidencias"** de esa semana.
 
-### 3. Cómo avisarme de tus avances? (El Sistema de Issues)
+### 3. Hacer "Commit" (ojo!)
+En GitHub, los cambios no se guardan automáticamente. Para confirmar que quieres subir algo, debes hacer un Commit. El Commit es como un "punto de guardado" en un videojuego o un "Guardar como" definitivo.
+Al final de la página (o en la parte superior) donde estés subiendo o editando un archivo, verás un cuadro que dice "Commit changes...".
+Mensaje de commit: Escribe algo breve de lo que hiciste (ejemplo: "Subiendo evidencias del martes" o "Actualizando reporte día 2").
+Haz clic en el botón verde "Commit changes".
+Si no haces clic en el botón verde, tu trabajo se perderá y yo no podré verlo.
+
+### 4. Cómo avisarme de tus avances? (El Sistema de Issues)
 Para que yo pueda revisar tu trabajo diario sin tener que entrar a buscar cada archivo, haremos lo siguiente:
 
 1.  Ve a la pestaña **"Issues"** en la parte superior de este repositorio.
@@ -61,7 +68,12 @@ Estancia/
     
 *   **Markdown:** GitHub usa un formato llamado "Markdown" para escribir texto. Es muy sencillo:
     *   Usa `#` para títulos.
-    *   Usa `*` para puntos de lista.
+    *   Usa `##` para subtítulos... etc
+    *   Usa `**Texto**` para **Negrita**
+    *   Usa `*` o `-` para puntos de lista.
     *   Usa `![nombre](enlace_de_la_imagen)` para mostrar imágenes.
+    *   Usa `[Texto](dirección_web)` para links.
+
+Editar: Si te equivocas en un reporte, solo abre el archivo y dale al icono del lápiz para editar, pero recuerda que al terminar siempre debes darle al botón de **Commit changes**.
 
 **Muchos éxitos en tu estancia! ya quiero ver tus avances.**
