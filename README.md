@@ -45,6 +45,20 @@ Al etiquetarme, me llegará una notificación inmediata para que yo pueda entrar
 ## Tips rápidos para empezar
 *   **Para crear carpetas y archivos:** Puedes usar el botón **"Add file"** -> **"Create new file"**. 
     *   *Truco:* Para crear una carpeta, escribe el nombre de la carpeta y luego una diagonal `/`. Por ejemplo: `Semana1/Evidencias/leeme.txt`.
+    *   *Truco:* GitHub no permite crear carpetas vacías, pero en lugar de colocar "cualquier cosa" dentro de una carpeta, la convención es usar un archivo ".gitkeep". Por ejemplo, si creas hoy tu estructura de carpetas, totalmente vacías van a quedar de esta forma:
+
+```text
+Estancia/
+├── Semana1/
+│   └── Evidencias/
+│       └── .gitkeep
+├── Semana2/
+│   └── Evidencias/
+│       └── .gitkeep
+└── ... (así hasta la Semana 7)
+```
+(la ruta para la creación de la semana 1 sería: `Semana1/Evidencias/.gitkeep`... etc
+    
 *   **Markdown:** GitHub usa un formato llamado "Markdown" para escribir texto. Es muy sencillo:
     *   Usa `#` para títulos.
     *   Usa `*` para puntos de lista.
