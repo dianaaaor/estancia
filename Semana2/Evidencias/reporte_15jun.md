@@ -1,6 +1,6 @@
 # Segmentación de columna
 Realizar esta segmentación fue un reto, sobretodo por la parte del disco intervertebral, porque no encontraba cómo poder darle el volumen, así que me ayudé de la IA para poder hacerlo, me dio una solución la cual no es tediosa pero tuve que ser muy precisa con la herramienta de dibujar.  
-Segmentar la vértebra fue sencillo porque fue muy parecido a las actividades que ya había hecho antes, por lo que no tuve ningún problema con esa parte; además ya conocí más la aplicación, sobretodo para la recolección de dataset. Finalmente me quedó así (Adjunto los archivos STL): 
+Segmentar la vértebra fue sencillo porque fue muy parecido a las actividades que ya había hecho antes, por lo que no tuve ningún problema con esa parte; además ya conocí más la aplicación, sobretodo para la recolección de dataset. Finalmente me quedó así (adjunto los archivos STL): 
 <img width="1336" height="857" alt="Captura de pantalla 2026-06-14 215636" src="https://github.com/user-attachments/assets/1f372a07-4cb4-4f73-a5d7-fdc15f0b16fd" />
 
 ## Archivos STL
