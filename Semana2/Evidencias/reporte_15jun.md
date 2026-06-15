@@ -2,7 +2,8 @@
 Realizar esta segmentación fue un reto, sobretodo por
 <img width="1336" height="857" alt="Captura de pantalla 2026-06-14 215636" src="https://github.com/user-attachments/assets/1f372a07-4cb4-4f73-a5d7-fdc15f0b16fd" />
 
-## Resolución de imagen:
+## Resolución de imagen
+Usé el archivo .nrrd proporcionado para esta práctica.
 * Tamaño vóxel: 0.7617 mm x 0.7617 mm
 * Espesor de corte: 2.5000 mm
 <img width="586" height="403" alt="Captura de pantalla 2026-06-14 212145" src="https://github.com/user-attachments/assets/8e1df519-6f37-4ab9-83ca-57102bad7cc4" />
@@ -29,10 +30,10 @@ V:83,542.4 mm³, Área de superficie: 28,968.6 mm²
 * Discos  
 V: 11,083.6 mm³, área de superficie: 3,277.17 mm²
 <img width="1347" height="192" alt="Captura de pantalla 2026-06-14 214544" src="https://github.com/user-attachments/assets/0bb620f6-a97a-438f-9e2a-977989d964a1" />
+<img width="486" height="192" alt="Captura de pantalla 2026-06-14 214553" src="https://github.com/user-attachments/assets/7a257743-9e50-463d-87bf-18fdbe937237" />
 
 ## Archivos STL
 
 
-<img width="486" height="192" alt="Captura de pantalla 2026-06-14 214553" src="https://github.com/user-attachments/assets/7a257743-9e50-463d-87bf-18fdbe937237" />
 
 
