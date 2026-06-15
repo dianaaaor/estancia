@@ -13,7 +13,7 @@ Usé Segment Editor para el proceso de segmentación del modelo:
 <img width="580" height="572" alt="Captura de pantalla 2026-06-14 221816" src="https://github.com/user-attachments/assets/5faae406-1fc0-4019-91b9-a641007947ab" />
 
 Después, para solo quedarme con dos vértebras de mi interés, usé la herramienta de Scissors con Erase Outside en la vista 3D para aislarlas, y Erase Inside para eliminar los pequeños restos que quedaban.
-* Paint principalmente para los **discos**
+* Paint principalmente para los **discos: "manual"**
 <img width="1918" height="1005" alt="Captura de pantalla 2026-06-14 213457" src="https://github.com/user-attachments/assets/4c517c61-462a-4196-8849-832f00b03de1" />
 
 Para los discos fue diferente debido a que es un tejido blando y no tiene un contraste útil definido. El método que usé fue manual ya que elegí la herramienta de Paint.
