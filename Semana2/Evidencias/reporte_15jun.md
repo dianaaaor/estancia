@@ -33,5 +33,5 @@ V: 11,083.6 mm³, área de superficie: 3,277.17 mm²
 <img width="486" height="192" alt="Captura de pantalla 2026-06-14 214553" src="https://github.com/user-attachments/assets/7a257743-9e50-463d-87bf-18fdbe937237" />
 
 ## Archivos STL
-* [Descargar Modelo del Hueso (Vértebras)](./Hueso.stl)
-* [Descargar Modelo del Disco Intervertebral](./Disco.stl)
+* [Descargar Modelo del Hueso (Vértebras)](./Segmentation_Hueso.stl)
+* [Descargar Modelo del Disco Intervertebral](./Segmentation_Disco.stl)
