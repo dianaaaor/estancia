@@ -1,7 +1,11 @@
 # Segmentación de columna
 Realizar esta segmentación fue un reto, sobretodo por la parte del disco intervertebral, porque no encontraba cómo poder darle el volumen, así que me ayudé de la IA para poder hacerlo, me dio una solución la cual no es tediosa pero tuve que ser muy precisa con la herramienta de dibujar.  
-Segmentar la vértebra fue sencillo porque fue muy parecido a las actividades que ya había hecho antes, por lo que no tuve ningún problema con esa parte; además ya conocí más la aplicación, sobretodo para la recolección de dataset.
+Segmentar la vértebra fue sencillo porque fue muy parecido a las actividades que ya había hecho antes, por lo que no tuve ningún problema con esa parte; además ya conocí más la aplicación, sobretodo para la recolección de dataset. Finalmente me quedó así (Adjunto los archivos STL): 
 <img width="1336" height="857" alt="Captura de pantalla 2026-06-14 215636" src="https://github.com/user-attachments/assets/1f372a07-4cb4-4f73-a5d7-fdc15f0b16fd" />
+
+## Archivos STL
+* [Descargar Modelo del Hueso (Vértebras)](./Segmentation_Hueso.stl)
+* [Descargar Modelo del Disco Intervertebral](./Segmentation_Disco.stl)
 
 ## Resolución de imagen
 Usé el archivo .nrrd proporcionado para esta práctica.
@@ -33,6 +37,3 @@ V: 11,083.6 mm³, área de superficie: 3,277.17 mm²
 <img width="1347" height="192" alt="Captura de pantalla 2026-06-14 214544" src="https://github.com/user-attachments/assets/0bb620f6-a97a-438f-9e2a-977989d964a1" />
 <img width="486" height="192" alt="Captura de pantalla 2026-06-14 214553" src="https://github.com/user-attachments/assets/7a257743-9e50-463d-87bf-18fdbe937237" />
 
-## Archivos STL
-* [Descargar Modelo del Hueso (Vértebras)](./Segmentation_Hueso.stl)
-* [Descargar Modelo del Disco Intervertebral](./Segmentation_Disco.stl)
