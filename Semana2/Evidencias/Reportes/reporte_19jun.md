@@ -1,4 +1,5 @@
 ## Placa para mentoplastia: terminada
+[Modelo de la Placa Final 3D](https://github.com/dianaaaor/estancia/blob/main/Semana2/Evidencias/Modelos/Modelo%202_Final.zip)
 Finalmente, ya que tenía la forma y el volumen de la placa completa, lo que seguía era que se hiciera un solo sólido, lo hice con la función Unión Booleana de
 Malla, esto para que fuera más fácil exportarlo a Meshmixer y lograr darle una mejor textura y que tuviera la misma densidad, porque a prueba y error aprendí que 
 causa muchos conflictos con funciones en Rhino.  
