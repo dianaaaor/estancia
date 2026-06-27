@@ -14,7 +14,7 @@ tuviera su forma.
 <img width="783" height="428" alt="image" src="https://github.com/user-attachments/assets/1c896cee-1396-4227-aa7a-c8dbeced8580" />
 <img width="767" height="403" alt="Captura de pantalla 2026-06-27 151832" src="https://github.com/user-attachments/assets/cbacf6da-60b4-4d2a-a30e-1fef6d1d7c5b" />
 
-  Ya con todos estos cambios y detalles añadidos, la placa quedó terminada y revisada por el profesor Carlos Ferro.  
+  Ya con todos estos cambios y detalles añadidos, la placa quedó terminada y revisada por el Profesor Carlos Ferro.  
   Puedo decir que aprendí mucho con él, resolvía mis dudas, y sobretodo aprendí con las prácticas que me dejó; sí tuve muchas complicaciones ya que es un programa
   nuevo para mí, solo tenía conocimientos básicos pero aún así pude comprender lo que hice y terminar mis actividades.
   
